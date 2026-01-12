@@ -35,7 +35,6 @@ This is a learning project focused on demonstrating proficiency in:
 
 ## 🛠️ Technology Stack
 
-- **JavaScript (ES6+)** - Programming language
 - **HTML5** - Semantic markup
 - **CSS3** - Styling with modern features
 - **Git** - Version control
