@@ -46,7 +46,7 @@ This is a learning project focused on demonstrating proficiency in:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Patience-labour/Digital-Marketing-Agency-Layout.git
-   cd Portfolio-Layout
+   cd Digital-Marketing-Agency-Layout
    ```
 2. **Open index.html directly in your browser**
 3. **Access at http://localhost:8000**
